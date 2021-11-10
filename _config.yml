@@ -9,7 +9,7 @@ name: Begluk Store
 description: We pick the best products for you!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://test.begluk.store/images/logo.png
+avatar: http://test.begluk.store/images/logo.png
 
 #
 # Flags below are optional
