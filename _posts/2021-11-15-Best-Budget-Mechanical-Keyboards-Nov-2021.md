@@ -55,7 +55,7 @@ Cons:
 ### 4. HK GAMING GK61
 ![]({{site.baseurl}}/images/HK-GAMING-GK61.jpg)
 
-The **GK61*** is an amazing keyboard, that's worth every single dollar. Similar to the RK Royal and DIERYA DK63, the keyboard is 60%, but comes with a little more functionality. The GK61 is most known for its design and quality and is even recommended by Youtubers such as TechSource! 
+The **GK61** is an amazing keyboard, that's worth every single dollar. Similar to the RK Royal and DIERYA DK63, the keyboard is 60%, but comes with a little more functionality. The GK61 is most known for its design and quality and is even recommended by Youtubers such as TechSource! 
 
 Pros:
 - Has software for RGB and macros
