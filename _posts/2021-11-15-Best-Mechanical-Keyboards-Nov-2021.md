@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Best Mechanical Keyboards as of November 2021
 ---
-Mechanical keyboars used to be somewhat of a luxury in the PC industry, but nowadays they are a viable option for most gamers. Do you also want to have a fancy new mechanical keyboard in your gaming setup, but money is tight? don't worry, you have come to the right place! DAB brings you the 5 best mechanical keyboards for gamers on a budget. After long hours of research, and testing of various keyboards, we have picked the Top 5 best quality budget mechanical keyboards just for you. You can find more detail about each of them below. 
+Mechanical keyboars used to be somewhat of a luxury in the PC industry, but nowadays they are a viable option for most gamers. Do you also want to have a fancy new mechanical keyboard in your gaming setup, but money is tight? Do not worry, you have come to the right place! DAB brings you the 5 best mechanical keyboards for gamers on a budget. After long hours of research, and testing of various keyboards, we have picked the Top 5 best quality budget mechanical keyboards just for you. You can find more detail about each of them below. 
 
 ### 1. Redragon K552
 The first on our list is the **Redragon K552**
