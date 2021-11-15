@@ -78,3 +78,5 @@ Pros:
 
 Cons:
 - USB cable not removable
+
+<a href="https://www.amazon.com/Cooler-Master-Tenkeyless-Mechanical-backlighting/dp/B07N4D7PMJ" class="buybutton">Cooler Master CK530 on Amazon</a>
