@@ -10,4 +10,4 @@ Want to create a gaming setup with a new fancy mechanical keyboard, but money is
 The first on our list is the Redragon K552
 
 The **Redragon K552-RGB** is a great choice for budget gamers. It sports Cherry MX Blue switches which have great tactile feedback. We were pleasantly surprised by the quality of this keyboard for this price ramge. You get great RGB lighting which not even some more expensive models have. The only flaw of this keyboard is not having special software, but for price of around 40$ this is great keyboard. We sincerely recommend it if you want a quality keyboard for little money.
-We will leave some sites where you can buy this greate mechanical keyboard.
+We will leave some sites where you can buy this great mechanical keyboard.
