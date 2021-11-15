@@ -6,8 +6,9 @@ title: Best Mechanical Keyboards as of November 2021
 Mechanical keyboards used to be somewhat of a luxury in the PC industry, but nowadays they are a viable option for most gamers. Do you also want to have a fancy new mechanical keyboard in your gaming setup, but money is tight? Do not worry, you have come to the right place! DAB brings you the 5 best mechanical keyboards for gamers on a budget. After long hours of research, and testing of various keyboards, we have picked the Top 5 best quality budget mechanical keyboards just for you. You can find more detail about each of them below. 
 
 ### 1. Redragon K552
-The first on our list is the **Redragon K552**
 ![]({{site.baseurl}}/images/Redragon-K552.jpg)
+
+The first on our list is the **Redragon K552**
 
 The **Redragon K552-RGB** is a great choice for budget gamers. It sports blue switches which have great tactile feedback. We were pleasantly surprised by the quality of this keyboard for the price. You get great RGB lighting which not even some more expensive models have. For the price of around 40$ this is a great deal. We sincerely recommend it if you want a quality keyboard for little money.
 
@@ -24,3 +25,5 @@ Cons:
 We will leave some sites where you can buy this great mechanical keyboard.
 
 <a href="https://www.amazon.com/Redragon-K552-Mechanical-Keyboard-Equivalent/dp/B016MAK38U?th=1" class="buybutton">Redragon K552 on Amazon</a>
+
+### 2. RK Royal Kludge RK61 
