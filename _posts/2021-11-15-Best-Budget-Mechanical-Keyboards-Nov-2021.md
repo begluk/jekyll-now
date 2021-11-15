@@ -8,7 +8,7 @@ Mechanical keyboards used to be somewhat of a luxury in the PC industry, but now
 ### 1. Redragon K552
 ![]({{site.baseurl}}/images/Redragon-K552.jpg)
 
-The first on our list is the **Redragon K552**
+The first and (in our opinion) the best on our list is the **Redragon K552**
 
 The **Redragon K552-RGB** is a great choice for budget gamers. It sports blue switches which have great tactile feedback. We were pleasantly surprised by the quality of this keyboard for the price. You get great RGB lighting which not even some more expensive models have. For the price of around 40$ this is a great deal. We sincerely recommend it if you want a quality keyboard for little money.
 
@@ -41,5 +41,6 @@ Cons:
 ### 3. DIERYA DK63
 ![]({{site.baseurl}}/images/DIERYA-DK63.jpg)
 
-Another great 60% keyboard! The **DIERYA DK63** keyboard is a compact wireless keyboard which is suitable for all kinds of tasks. It's great build and even better bang for the buck makes it a viable option for budget gamers. It has a long lasting 1900mAh battery and 8 RGB effects
+Another great 60% keyboard! The **DIERYA DK63** keyboard is a compact wireless keyboard suitable for all kinds of tasks. It's great build and even better bang for the buck makes it a viable option for budget gamers. It has a long lasting 1900mAh battery and 8 RGB effects
+
 
