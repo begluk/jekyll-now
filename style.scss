@@ -289,25 +289,23 @@ footer {
 @import "svg-icons";
 
 .buybutton {
-	background:linear-gradient(to bottom, #005eff 5%, #0051b3 100%);
+	background:linear-gradient(to bottom, #005eff 5%, #004ecc 100%);
 	background-color:#005eff;
-	border-radius:28px;
-	border:1px solid #4e6096;
+	border-radius:14px;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
 	font-size:17px;
-	padding:16px 31px;
+	padding:15px 31px;
 	text-decoration:none;
 }
 .buybutton:hover {
-	background:linear-gradient(to bottom, #0051b3 5%, #005eff 100%);
-	background-color:#0051b3;
+	background:linear-gradient(to bottom, #004ecc 5%, #005eff 100%);
+	background-color:#004ecc;
 }
 .buybutton:active {
 	position:relative;
 	top:1px;
 }
 
-        
