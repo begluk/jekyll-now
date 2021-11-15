@@ -23,26 +23,6 @@ Cons:
 
 We will leave some sites where you can buy this great mechanical keyboard.
 
-<a href="https://amazon.com/" class="myButton">Redragon K552 on Amazon</a>
+<style></style>
 
-<style>.myButton {
-	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
-	background-color:#44c767;
-	border-radius:28px;
-	border:1px solid #18ab29;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-}
-.myButton:hover {
-	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
-	background-color:#5cbf2a;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
-}</style>
+<a href="https://amazon.com/" class="buybutton">Redragon K552 on Amazon</a>
