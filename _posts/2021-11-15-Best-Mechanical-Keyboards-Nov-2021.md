@@ -21,8 +21,6 @@ Cons:
 - Available only with blue switches
 - USB cable is hard-wired
 
-We will leave some sites where you can buy this great mechanical keyboard.
-
 <a href="https://www.amazon.com/Redragon-K552-Mechanical-Keyboard-Equivalent/dp/B016MAK38U?th=1" class="buybutton">Redragon K552 on Amazon</a>
 
 ### 2. RK Royal Kludge RK61 
