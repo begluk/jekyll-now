@@ -288,8 +288,8 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-.buybutton {
-	background:linear-gradient(to bottom, #005eff 5%, #476e9e 100%);
+.myButton {
+	background:linear-gradient(to bottom, #005eff 5%, #0051b3 100%);
 	background-color:#005eff;
 	border-radius:28px;
 	border:1px solid #4e6096;
@@ -301,12 +301,13 @@ footer {
 	padding:16px 31px;
 	text-decoration:none;
 }
-
-.buybutton:hover {
-	background:linear-gradient(to bottom, #476e9e 5%, #005eff 100%);
-	background-color:#476e9e;
+.myButton:hover {
+	background:linear-gradient(to bottom, #0051b3 5%, #005eff 100%);
+	background-color:#0051b3;
 }
-.buybutton:active {
+.myButton:active {
 	position:relative;
 	top:1px;
 }
+
+        
