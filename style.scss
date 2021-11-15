@@ -287,3 +287,25 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+.buybutton {
+	background:linear-gradient(to bottom, #005eff 5%, #476e9e 100%);
+	background-color:#005eff;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+
+.buybutton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #005eff 100%);
+	background-color:#476e9e;
+}
+.buybutton:active {
+	position:relative;
+	top:1px;
+}
