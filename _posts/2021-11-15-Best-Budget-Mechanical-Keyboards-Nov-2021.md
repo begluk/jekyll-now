@@ -69,4 +69,12 @@ Cons:
 ### 5. Cooler Master CK530
 ![]({{site.baseurl}}/images/Cooler-Master-CK530.jpg)
 
-Although a bit more pricey, you won't fool yourself if you choose the **Cooler Master CK530**. It has great build quality, with software customizable RGB. The metal is sturdy and feels good to use. 
+Although a bit more pricey, you won't fool yourself if you choose the **Cooler Master CK530**. It features great build quality with a brushed aluminum design. The metal is sturdy and feels good to use. It comes with custom software for easy RGB customization and macros.
+
+Pros:
+- Software for RGB and macros
+- Great build quality
+- Feels comfortable to use
+
+Cons:
+- USB cable not removable
