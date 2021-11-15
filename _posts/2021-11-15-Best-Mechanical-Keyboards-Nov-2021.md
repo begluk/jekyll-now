@@ -13,13 +13,12 @@ The first on our list is the **Redragon K552**
 The **Redragon K552-RGB** is a great choice for budget gamers. It sports blue switches which have great tactile feedback. We were pleasantly surprised by the quality of this keyboard for the price. You get great RGB lighting which not even some more expensive models have. For the price of around 40$ this is a great deal. We sincerely recommend it if you want a quality keyboard for little money.
 
 Pros:
-- Cheap
 - Great RGB options
 - Great build quality for the price (aluminium base)
 - Includes all function keys
 
 Cons:
-- Only blue switches
+- Available only with blue switches
 - USB cable is hard-wired
 
 We will leave some sites where you can buy this great mechanical keyboard.
@@ -27,3 +26,17 @@ We will leave some sites where you can buy this great mechanical keyboard.
 <a href="https://www.amazon.com/Redragon-K552-Mechanical-Keyboard-Equivalent/dp/B016MAK38U?th=1" class="buybutton">Redragon K552 on Amazon</a>
 
 ### 2. RK Royal Kludge RK61 
+![]({{site.baseurl}}/images/RK-ROYAL-KLUDGE-RK61.jpg)
+
+The **RK Royal Kludge RK61** is a fairly popular 60% keyboard for its low price. It is a great choice for all those who want a compact keyboard with great bang for the buck. The keyboard is offered in black and white colors, and hot-swappable brown, blue and red switches. 
+
+Pros:
+- Compact
+- Good quality switches
+- Hot-swappable switches
+
+Cons:
+- Keycap wiggle, although minimal, is noticable
+- All plastic build
+
+<a href="https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Switch-White/dp/B0832CZNS5" class="buybutton">RK Royal Kludge RK61</a>
