@@ -36,4 +36,7 @@ Cons:
 - Keycap wiggle, although minimal, is noticable
 - All plastic build
 
-<a href="https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Switch-White/dp/B0832CZNS5" class="buybutton">RK Royal Kludge RK61</a>
+<a href="https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Switch-White/dp/B0832CZNS5" class="buybutton">RK Royal Kludge RK61 on Amazon</a>
+
+### 3. DIERYA DK63
+![]({{site.baseurl}}/images/DIERYA-DK63.jpg)
