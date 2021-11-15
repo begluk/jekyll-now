@@ -34,7 +34,7 @@ Pros:
 
 Cons:
 - Keycap wiggle, although minimal, is noticable
-- No numpad (let's be honest, who uses those)
+- No numpad or arrows
 
 <a href="https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Switch-White/dp/B0832CZNS5" class="buybutton">RK Royal Kludge RK61 on Amazon</a>
 
