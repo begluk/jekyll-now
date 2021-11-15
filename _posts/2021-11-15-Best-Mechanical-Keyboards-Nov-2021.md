@@ -18,7 +18,6 @@ Pros:
 - Includes all function keys
 
 Cons:
-- Available only with blue switches
 - USB cable is hard-wired
 
 <a href="https://www.amazon.com/Redragon-K552-Mechanical-Keyboard-Equivalent/dp/B016MAK38U?th=1" class="buybutton">Redragon K552 on Amazon</a>
