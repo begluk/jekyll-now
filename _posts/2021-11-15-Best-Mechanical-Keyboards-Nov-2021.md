@@ -25,7 +25,7 @@ We will leave some sites where you can buy this great mechanical keyboard.
 
 <a href="https://amazon.com/" class="myButton">Redragon K552 on Amazon</a>
 
-.myButton {
+<style>.myButton {
 	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
 	background-color:#44c767;
 	border-radius:28px;
@@ -45,6 +45,4 @@ We will leave some sites where you can buy this great mechanical keyboard.
 .myButton:active {
 	position:relative;
 	top:1px;
-}
-
-        
+}</style>
