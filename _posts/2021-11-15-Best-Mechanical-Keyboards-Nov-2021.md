@@ -9,7 +9,7 @@ Mechanical keyboards used to be somewhat of a luxury in the PC industry, but now
 The first on our list is the **Redragon K552**
 ![]({{site.baseurl}}/images/Redragon-K552.jpg)
 
-The **Redragon K552-RGB** is a great choice for budget gamers. It sports blue switches which have great tactile feedback. We were pleasantly surprised by the quality of this keyboard for this price range. You get great RGB lighting which not even some more expensive models have. For the price of around 40$ this is a great choice. We sincerely recommend it if you want a quality keyboard for little money.
+The **Redragon K552-RGB** is a great choice for budget gamers. It sports blue switches which have great tactile feedback. We were pleasantly surprised by the quality of this keyboard for the price. You get great RGB lighting which not even some more expensive models have. For the price of around 40$ this is a great deal. We sincerely recommend it if you want a quality keyboard for little money.
 
 Pros:
 - Cheap
