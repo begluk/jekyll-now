@@ -34,7 +34,6 @@ Pros:
 
 Cons:
 - Keycap wiggle, although minimal, is noticable
-- No numpad or arrows
 
 <a href="https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Switch-White/dp/B0832CZNS5" class="buybutton">RK Royal Kludge RK61 on Amazon</a>
 
@@ -44,6 +43,7 @@ Cons:
 Another great 60% keyboard! The **DIERYA DK63** keyboard is a compact wireless keyboard suitable for all kinds of tasks. It's great build and even better bang for the buck makes it a viable option for budget gamers. It has a long lasting 1900mAh battery and 8 RGB effects
 
 Pros:
+- Compact
 - Wireless
 - Great build quality
 
@@ -52,3 +52,21 @@ Cons:
 
 <a href="https://www.amazon.com/DIERYA-DK63-Dedicated-Mechanical-Programmable/dp/B07FZSDYTZ/ref=sr_1_3?keywords=DIERYA+DK63&qid=1637007357&sr=8-3" class="buybutton">DIERYA DK63 on Amazon</a>
 
+### 4. HK GAMING GK61
+![]({{site.baseurl}}/images/HK-GAMING-GK61.jpg)
+
+The **GK61*** is an amazing keyboard, that's worth every single dollar. Similar to the RK Royal and DIERYA DK63, the keyboard is 60%, but comes with a little more functionality. The GK61 is most known for its design and quality and is even recommended by Youtubers such as TechSource! 
+
+Pros:
+- Has software for RGB and macros
+- Great build quality
+
+Cons:
+- Keycaps are a little wobbly, but it's not too noticable
+
+<a href="https://www.amazon.com/HK-Gaming-Mechanical-Illuminated-Programmable/dp/B07PT9NRRY/ref=sr_1_3?crid=154X1M9V7QPML&keywords=hk+gaming+gk61&qid=1637008182&sprefix=hk+%2Caps%2C272&sr=8-3" class="buybutton">HK GAMING GK61 on Amazon</a>
+
+### 5. Cooler Master CK530
+![]({{site.baseurl}}/images/Cooler-Master-CK530.jpg)
+
+Although a bit more pricey, you won't fool yourself if you choose the **Cooler Master CK530**. It has great build quality, with software customizable RGB. The metal is sturdy and feels good to use. 
