@@ -23,6 +23,4 @@ Cons:
 
 We will leave some sites where you can buy this great mechanical keyboard.
 
-<style></style>
-
 <a href="https://amazon.com/" class="buybutton">Redragon K552 on Amazon</a>
