@@ -34,11 +34,12 @@ Pros:
 
 Cons:
 - Keycap wiggle, although minimal, is noticable
-- All plastic build
+- No numpad (let's be honest, who uses those)
 
 <a href="https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Switch-White/dp/B0832CZNS5" class="buybutton">RK Royal Kludge RK61 on Amazon</a>
 
 ### 3. DIERYA DK63
 ![]({{site.baseurl}}/images/DIERYA-DK63.jpg)
 
-Another great 60% 
+Another great 60% keyboard! The **DIERYA DK63** keyboard is a compact wireless keyboard which is suitable for all kinds of tasks. It's great build and even better bang for the buck makes it a viable option for budget gamers. It has a long lasting 1900mAh battery and 8 RGB effects
+
